@@ -7128,3 +7128,676 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.22-14.52.25:398][ 29]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/SideScrollerExampleMap_Auto2923AD10B422BE4ED13DED38A75F831B8.tmp' to 'E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto2.umap'
 [2020.11.22-14.52.25:399][ 29]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.061
 [2020.11.22-14.52.25:399][ 29]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.061
+[2020.11.22-14.55.05:295][508]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.22-14.55.05:295][508]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2020.11.22-14.55.05:441][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B682098A7-47C8-563A-3C6D-399CE7CDE13B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=3dbb2e3f42a05454c6d3dc94e6bcf4e1%7C82e8cb3e97c048c4b74bb8e9c296693f%7Cdb884039-f764-4351-94b7-20f5560ca2d3&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: request failed, libcurl error: 35 (SSL connect error)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 0 (Connection 8 seems to be dead!)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 1 (Closing connection 8)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 3 (  Trying 127.0.0.1...)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 5 (Connected to 127.0.0.1 (127.0.0.1) port 4780 (#9))
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 6 (allocate connect buffer!)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 7 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 8 (Proxy replied OK to CONNECT request)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 9 (CONNECT phase completed!)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 10 (ALPN, offering http/1.1)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 11 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 12 (SSL re-using session ID)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 14 (CONNECT phase completed!)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 15 (CONNECT phase completed!)
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 16 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.11.22-14.57.59:060][401]LogHttp: Warning: 0000024B86704100: libcurl info message cache 17 (Closing connection 9)
+[2020.11.22-14.57.59:393][402]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B682098A7-47C8-563A-3C6D-399CE7CDE13B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=3dbb2e3f42a05454c6d3dc94e6bcf4e1%7C82e8cb3e97c048c4b74bb8e9c296693f%7Cdb884039-f764-4351-94b7-20f5560ca2d3&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.11.22-15.05.40:914][415]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2020.11.22-15.05.41:234][441]LogEditorViewport: Clicking on Actor (context menu): SideScrollerCharacter_C (SideScrollerCharacter)
+[2020.11.22-15.05.45:106][883]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2020.11.22-15.05.45:263][883]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 125 classes and 0 folders.
+[2020.11.22-15.05.45:832][883]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2020.11.22-15.05.45:866][883]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 31
+[2020.11.22-15.05.45:866][883]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 28
+[2020.11.22-15.05.45:866][883]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.11.22-15.05.45:866][883]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2020.11.22-15.05.45:866][883]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2020.11.22-15.05.45:866][883]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2020.11.22-15.05.45:866][883]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2020.11.22-15.05.45:866][883]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2020.11.22-15.05.45:866][883]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2020.11.22-15.05.45:866][883]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.11.22-15.05.45:866][883]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.11.22-15.05.52:349][350]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2020.11.22-15.05.52:356][350]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2020.11.22-15.05.52:390][350]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.05.52:390][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B682098A7-47C8-563A-3C6D-399CE7CDE13B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=3dbb2e3f42a05454c6d3dc94e6bcf4e1%7C82e8cb3e97c048c4b74bb8e9c296693f%7Cdb884039-f764-4351-94b7-20f5560ca2d3&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: request failed, libcurl error: 28 (Timeout was reached)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 0 (Connection 11 seems to be dead!)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 1 (Closing connection 11)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 3 (  Trying 127.0.0.1...)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 5 (Connected to 127.0.0.1 (127.0.0.1) port 4780 (#12))
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 6 (allocate connect buffer!)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 7 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 8 (Proxy replied OK to CONNECT request)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 9 (CONNECT phase completed!)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 10 (ALPN, offering http/1.1)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 11 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 12 (SSL re-using session ID)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 14 (CONNECT phase completed!)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 15 (CONNECT phase completed!)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 16 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: 0000024B8A26C800: libcurl info message cache 17 (Closing connection 12)
+[2020.11.22-15.05.53:797][508]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B682098A7-47C8-563A-3C6D-399CE7CDE13B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=3dbb2e3f42a05454c6d3dc94e6bcf4e1%7C82e8cb3e97c048c4b74bb8e9c296693f%7Cdb884039-f764-4351-94b7-20f5560ca2d3&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.11.22-15.06.09:476][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.11.22-15.06.12:359][703]LogMetaData: Removing '/Game/content/role/BP/BP_baserole.SKEL_BP_baserole_C' ref from Metadata '/Game/SideScrollerBP/Blueprints/BP_baserole.PackageMetaData'
+[2020.11.22-15.06.12:359][703]LogMetaData: Removing '/Game/content/role/BP/BP_baserole.BP_baserole_C' ref from Metadata '/Game/SideScrollerBP/Blueprints/BP_baserole.PackageMetaData'
+[2020.11.22-15.06.12:359][703]LogMetaData: Removing '/Game/content/role/BP/BP_baserole.SKEL_BP_baserole_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_91' ref from Metadata '/Game/SideScrollerBP/Blueprints/BP_baserole.PackageMetaData'
+[2020.11.22-15.06.12:359][703]LogMetaData: Removing '/Game/content/role/BP/BP_baserole.SKEL_BP_baserole_C:UserConstructionScript' ref from Metadata '/Game/SideScrollerBP/Blueprints/BP_baserole.PackageMetaData'
+[2020.11.22-15.06.12:400][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/BP_baserole" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/BP_baserole.uasset" SILENT=true
+[2020.11.22-15.06.12:413][703]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/BP_baserole593D6EA04254F2B23BC3909619780488.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/BP_baserole.uasset'
+[2020.11.22-15.06.12:539][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.11.22-15.06.12:560][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.11.22-15.06.12:574][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.22-15.06.12:634][703]AssetCheck: New page: 资产保存：BP_baserole
+[2020.11.22-15.06.12:634][703]LogContentValidation: Display: 正在验证Blueprint /Game/content/role/BP/BP_baserole.BP_baserole
+[2020.11.22-15.06.22:635][882]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode
+[2020.11.22-15.06.27:905][419]LogSlate: Window 'SideScrollerGameMode' being destroyed
+[2020.11.22-15.06.27:912][419]LogSlate: Window 'SideScrollerGameMode' being destroyed
+[2020.11.22-15.06.27:916][419]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.06.27:916][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.06.52:779][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.11.22-15.06.56:177][769]LogMetaData: Removing '/Game/content/role/BP/MainGameMode.SKEL_MainGameMode_C' ref from Metadata '/Game/SideScrollerBP/Blueprints/MainGameMode.PackageMetaData'
+[2020.11.22-15.06.56:177][769]LogMetaData: Removing '/Game/content/role/BP/MainGameMode.MainGameMode_C' ref from Metadata '/Game/SideScrollerBP/Blueprints/MainGameMode.PackageMetaData'
+[2020.11.22-15.06.56:177][769]LogMetaData: Removing '/Game/content/role/BP/MainGameMode.SKEL_MainGameMode_C:UserConstructionScript' ref from Metadata '/Game/SideScrollerBP/Blueprints/MainGameMode.PackageMetaData'
+[2020.11.22-15.06.56:211][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/MainGameMode" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/MainGameMode.uasset" SILENT=true
+[2020.11.22-15.06.56:214][769]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/MainGameModeBD794FD64E6D9F24DF6D41AF19ACF16D.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/MainGameMode.uasset'
+[2020.11.22-15.06.56:340][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.11.22-15.06.56:362][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.11.22-15.06.56:376][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.22-15.06.56:438][769]AssetCheck: New page: 资产保存：MainGameMode
+[2020.11.22-15.06.56:438][769]LogContentValidation: Display: 正在验证Blueprint /Game/content/role/BP/MainGameMode.MainGameMode
+[2020.11.22-15.07.06:303][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.11.22-15.07.06:324][549]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/SideScrollerExampleMap996FBD354D5D6ECA5923078921CA3926.tmp' to 'E:/Document/Backtracking/Backtracking/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2020.11.22-15.07.06:392][549]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/SideScrollerExampleMap_BuiltData34AF9F764C3B78A4B9154E9A841C190D.tmp' to 'E:/Document/Backtracking/Backtracking/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2020.11.22-15.07.06:405][549]AssetCheck: New page: 资产保存：多个资产
+[2020.11.22-15.07.06:405][549]LogContentValidation: Display: 正在验证World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2020.11.22-15.07.06:405][549]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2020.11.22-15.07.23:771][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.11.22-15.07.23:850][567]LogD3D12RHI: Creating RTPSO with 142 shaders (141 cached, 1 new) took 33.88 ms. Compile time 28.47 ms, link time 5.26 ms.
+[2020.11.22-15.07.33:415][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.11.22-15.07.33:418][660]LogMetaData: Removing '/Game/content/Level/TestLevel.SKEL_TestLevel_C' ref from Metadata '/Game/SideScrollerBP/Maps/TestLevel.PackageMetaData'
+[2020.11.22-15.07.33:418][660]LogMetaData: Removing '/Game/content/Level/TestLevel.TestLevel_C' ref from Metadata '/Game/SideScrollerBP/Maps/TestLevel.PackageMetaData'
+[2020.11.22-15.07.33:458][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Level/TestLevel" FILE="E:/Document/Backtracking/Backtracking/Content/content/Level/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.22-15.07.33:478][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.11.22-15.07.33:495][660]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/TestLevel4AF895714B9D56268835B9900BCD26CF.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/Level/TestLevel.umap'
+[2020.11.22-15.07.33:498][660]LogFileHelpers: Saving map 'TestLevel' took 0.039
+[2020.11.22-15.07.33:621][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.11.22-15.07.33:641][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.11.22-15.07.33:654][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.22-15.07.33:715][660]AssetCheck: New page: 资产保存：TestLevel
+[2020.11.22-15.07.33:715][660]LogContentValidation: Display: 正在验证World /Game/content/Level/TestLevel.TestLevel
+[2020.11.22-15.07.36:961][ 12]LogAssetEditorSubsystem: Opening Asset editor for World /Game/content/Level/TestLevel.TestLevel
+[2020.11.22-15.07.37:017][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.11.22-15.07.37:019][ 12]Cmd: MAP LOAD FILE="E:/Document/Backtracking/Backtracking/Content/content/Level/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.22-15.07.37:019][ 12]LightingResults: New page: 光照构建
+[2020.11.22-15.07.37:019][ 12]LoadErrors: New page: 正在加载地图：TestLevel.umap
+[2020.11.22-15.07.37:050][ 12]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.07.37:050][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.07.37:050][ 12]MapCheck: New page: 地图检测
+[2020.11.22-15.07.37:050][ 12]LightingResults: New page: 光照构建
+[2020.11.22-15.07.37:075][ 12]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024B2FBD7E00), frame # 100012
+[2020.11.22-15.07.37:075][ 12]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024B2FBE3B00), frame # 100012
+[2020.11.22-15.07.37:084][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.11.22-15.07.37:161][ 12]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.22-15.07.37:161][ 12]LogAIModule: Creating AISystem for world TestLevel
+[2020.11.22-15.07.37:161][ 12]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024B5D990C00), frame # 100012
+[2020.11.22-15.07.37:161][ 12]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024BD1947880), frame # 100012
+[2020.11.22-15.07.37:175][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.11.22-15.07.37:180][ 12]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.22-15.07.37:180][ 12]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.053毫秒。
+[2020.11.22-15.07.37:180][ 12]LogFileHelpers: Loading map 'TestLevel' took 0.161
+[2020.11.22-15.07.40:387][308]LogSlate: Window '内容浏览器' being destroyed
+[2020.11.22-15.07.40:393][308]LogSlate: Window '内容浏览器' being destroyed
+[2020.11.22-15.07.41:838][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.11.22-15.09.34:651][330]LogSlate: Window '内容浏览器' being destroyed
+[2020.11.22-15.09.34:656][330]LogSlate: Window '内容浏览器' being destroyed
+[2020.11.22-15.09.37:160][600]LogSlate: Window '项目设置' being destroyed
+[2020.11.22-15.09.37:167][600]LogSlate: Window '项目设置' being destroyed
+[2020.11.22-15.11.01:669][919]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2020.11.22-15.11.08:813][690]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.11.22-15.11.08:825][690]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.11.09:128][690]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.22-15.11.37:352][289]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/content/role/BP/BP_baserole.BP_baserole
+[2020.11.22-15.11.44:820][866]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Sk_baserole, removing AnimBP from actor.
+[2020.11.22-15.11.44:821][866]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Sk_baserole, removing AnimBP from actor.
+[2020.11.22-15.11.44:821][866]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Sk_baserole, removing AnimBP from actor.
+[2020.11.22-15.11.49:844][322]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/content/role/Mesh/baserole.baserole
+[2020.11.22-15.11.49:851][322]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.11.49:865][322]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.22-15.11.52:630][534]LogSlate: Window 'baserole' being destroyed
+[2020.11.22-15.11.52:634][534]LogSlate: Window 'baserole' being destroyed
+[2020.11.22-15.11.52:643][534]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.11.52:643][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.11.52:647][534]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.11.52:647][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.11.52:712][534]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.11.52:713][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.11.52:728][534]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.11.52:728][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.11.52:765][534]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.11.52:765][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.14.15:395][962]Cmd: DELETE
+[2020.11.22-15.14.15:395][962]Cmd: ACTOR DELETE
+[2020.11.22-15.14.15:400][962]LogEditorActor: Deleted Actor: SideScrollerCharacter_C
+[2020.11.22-15.14.15:461][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.11.22-15.14.15:468][962]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2020.11.22-15.14.21:399][466]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (baserole)
+[2020.11.22-15.14.23:186][661]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.22-15.14.47:034][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.22-15.14.48:166][530]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.11.22-15.14.49:762][714]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.22-15.17.37:238][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.11.22-15.17.37:305][356]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/TestLevel_Auto3F68DF1964EE821907022E4BC708F07C5.tmp' to 'E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/Level/TestLevel_Auto3.umap'
+[2020.11.22-15.17.37:306][356]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/content/Level/TestLevel' took 0.109
+[2020.11.22-15.17.37:306][356]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.109
+[2020.11.22-15.17.37:306][356]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/content/role/BP/MainGameMode] ([1] browsable assets)...
+[2020.11.22-15.17.37:306][356]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/role/BP/MainGameMode]
+[2020.11.22-15.17.37:306][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/MainGameMode" FILE="E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/role/BP/MainGameMode_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.11.22-15.17.37:310][356]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/MainGameMode_Auto3CF94D6AC4BDBB10FA9BC96921A35EA4F.tmp' to 'E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/role/BP/MainGameMode_Auto3.uasset'
+[2020.11.22-15.17.37:311][356]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/role/BP/BP_baserole] ([1] browsable assets)...
+[2020.11.22-15.17.37:331][356]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/content/role/BP/BP_baserole.BP_baserole]
+[2020.11.22-15.17.37:331][356]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/role/BP/BP_baserole]
+[2020.11.22-15.17.37:331][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/BP_baserole" FILE="E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/role/BP/BP_baserole_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.11.22-15.17.37:342][356]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/BP_baserole_Auto3C311224C4E4DB92DECF753AF0014F927.tmp' to 'E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/role/BP/BP_baserole_Auto3.uasset'
+[2020.11.22-15.17.37:343][356]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/role/Mesh/Sk_baserole_AnimBlueprint] ([1] browsable assets)...
+[2020.11.22-15.17.37:358][356]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/content/role/Mesh/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint]
+[2020.11.22-15.17.37:358][356]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/role/Mesh/Sk_baserole_AnimBlueprint]
+[2020.11.22-15.17.37:365][356]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/Sk_baserole_AnimBlueprint_Auto3AA30167F4CA3D6E4DEE06BA2A29006A9.tmp' to 'E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/role/Mesh/Sk_baserole_AnimBlueprint_Auto3.uasset'
+[2020.11.22-15.17.37:365][356]LogFileHelpers: Auto-saving content packages took 0.059
+[2020.11.22-15.24.20:577][485]LogMetaData: Removing '/Game/content/role/Animation/An_jump_start.An_jump_start' ref from Metadata '/Game/content/role/Mesh/An_jump_start.PackageMetaData'
+[2020.11.22-15.24.20:622][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_jump_start" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_start.uasset" SILENT=true
+[2020.11.22-15.24.20:627][485]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_jump_start82B508AA48E801A561FB09926D4153AB.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_start.uasset'
+[2020.11.22-15.24.20:635][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_jump_end" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_end.uasset" SILENT=true
+[2020.11.22-15.24.20:640][485]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_jump_endFA2DAF1046440FDA4B2FB3A595BB18F0.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_end.uasset'
+[2020.11.22-15.24.20:648][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_jump_mid" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_mid.uasset" SILENT=true
+[2020.11.22-15.24.20:671][485]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_jump_mid09B9DE2344805FA6364CB1A99AC1B28F.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_mid.uasset'
+[2020.11.22-15.24.20:959][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.11.22-15.24.20:985][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.22-15.24.21:001][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.11.22-15.24.21:023][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.11.22-15.24.21:037][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.22-15.24.21:095][485]AssetCheck: New page: 资产保存：多个资产
+[2020.11.22-15.24.21:096][485]LogContentValidation: Display: 正在验证AnimSequence /Game/content/role/Animation/An_jump_start.An_jump_start
+[2020.11.22-15.24.21:096][485]LogContentValidation: Display: 正在验证AnimSequence /Game/content/role/Animation/An_jump_end.An_jump_end
+[2020.11.22-15.24.21:096][485]LogContentValidation: Display: 正在验证AnimSequence /Game/content/role/Animation/An_jump_mid.An_jump_mid
+[2020.11.22-15.25.22:978][647]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\回溯\roles\An_baserole_run.fbx)
+[2020.11.22-15.25.22:985][647]LogFbx: Loading FBX Scene from G:\回溯\roles\An_baserole_run.fbx
+[2020.11.22-15.25.22:989][647]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.22-15.25.30:985][647]LogSlate: Window 'FBX导入选项' being destroyed
+[2020.11.22-15.25.30:998][647]LogFbx: SortedLinks :(0) joint_bottom
+[2020.11.22-15.25.30:998][647]LogFbx: SortedLinks :(1) joint_top
+[2020.11.22-15.25.30:998][647]LogFbx: Parsing AnimStack Take 001
+[2020.11.22-15.25.31:013][647]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/content/role/Animation/An_baserole_run.An_baserole_run
+[2020.11.22-15.25.31:013][647]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/content/role/Animation/An_baserole_run.An_baserole_run
+[2020.11.22-15.25.32:236][763]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/content/role/Animation/An_baserole_run.An_baserole_run
+[2020.11.22-15.25.32:246][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.25.32:316][763]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.22-15.25.32:537][763]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.22-15.25.56:373][295]LogSlate: Window 'An_baserole_run' being destroyed
+[2020.11.22-15.25.56:379][295]LogSlate: Window 'An_baserole_run' being destroyed
+[2020.11.22-15.25.56:401][295]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.25.56:401][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.25.56:409][295]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.25.56:409][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.25.56:459][295]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.25.56:459][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.26.00:768][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.22-15.27.04:769][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/BS1D_baserole_run" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/BS1D_baserole_run.uasset" SILENT=true
+[2020.11.22-15.27.04:773][759]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/BS1D_baserole_run16207A44423AA13AEB1C708D47D7031F.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/BS1D_baserole_run.uasset'
+[2020.11.22-15.27.04:907][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.11.22-15.27.04:944][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.11.22-15.27.04:957][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.22-15.27.04:996][759]AssetCheck: New page: 资产保存：BS1D_baserole_run
+[2020.11.22-15.27.04:996][759]LogContentValidation: Display: 正在验证BlendSpace1D /Game/content/role/BP/BS1D_baserole_run.BS1D_baserole_run
+[2020.11.22-15.27.05:777][848]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/content/role/BP/BS1D_baserole_run.BS1D_baserole_run
+[2020.11.22-15.27.05:784][848]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.27.05:882][848]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.22-15.27.06:058][848]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.22-15.27.37:605][278]Cmd: TRANSACTION UNDO
+[2020.11.22-15.27.37:605][278]LogEditorTransaction: Undo 编辑Name
+[2020.11.22-15.27.37:683][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.28.12:820][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.11.22-15.28.12:915][397]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/TestLevel_Auto4A9379D22443A6FA2F6F31A890847DA88.tmp' to 'E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/Level/TestLevel_Auto4.umap'
+[2020.11.22-15.28.12:916][397]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/content/Level/TestLevel' took 0.112
+[2020.11.22-15.28.12:916][397]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.112
+[2020.11.22-15.28.12:916][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/content/role/BP/MainGameMode] ([1] browsable assets)...
+[2020.11.22-15.28.12:916][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/role/BP/MainGameMode]
+[2020.11.22-15.28.12:916][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/MainGameMode" FILE="E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/role/BP/MainGameMode_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.11.22-15.28.12:920][397]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/MainGameMode_Auto43AFF36CE4B707B7477FA129DD69B4D3F.tmp' to 'E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/role/BP/MainGameMode_Auto4.uasset'
+[2020.11.22-15.28.12:920][397]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/role/BP/BP_baserole] ([1] browsable assets)...
+[2020.11.22-15.28.12:939][397]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/content/role/BP/BP_baserole.BP_baserole]
+[2020.11.22-15.28.12:939][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/role/BP/BP_baserole]
+[2020.11.22-15.28.12:939][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/BP_baserole" FILE="E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/role/BP/BP_baserole_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.11.22-15.28.12:951][397]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/BP_baserole_Auto4B7E57DF7432DDE4384D20D9944F11F9F.tmp' to 'E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/role/BP/BP_baserole_Auto4.uasset'
+[2020.11.22-15.28.12:952][397]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/role/Mesh/Sk_baserole_AnimBlueprint] ([1] browsable assets)...
+[2020.11.22-15.28.12:965][397]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/content/role/Mesh/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint]
+[2020.11.22-15.28.12:965][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/role/Mesh/Sk_baserole_AnimBlueprint]
+[2020.11.22-15.28.12:972][397]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/Sk_baserole_AnimBlueprint_Auto4A666491E410B7F528E47C6B0F8AC3840.tmp' to 'E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/role/Mesh/Sk_baserole_AnimBlueprint_Auto4.uasset'
+[2020.11.22-15.28.12:977][397]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/content/role/Animation/An_baserole_run] ([1] browsable assets)...
+[2020.11.22-15.28.12:992][397]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/content/role/Animation/An_baserole_run.An_baserole_run]
+[2020.11.22-15.28.12:992][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/content/role/Animation/An_baserole_run]
+[2020.11.22-15.28.12:996][397]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_baserole_run_Auto4B414F6E0404EC281BD9F3290107AEB24.tmp' to 'E:/Document/Backtracking/Backtracking/Saved/Autosaves/Game/content/role/Animation/An_baserole_run_Auto4.uasset'
+[2020.11.22-15.28.12:996][397]LogFileHelpers: Auto-saving content packages took 0.081
+[2020.11.22-15.29.15:546][247]LogEditorFactories: Performing atomic reimport of [G:/回溯/roles/An_baserole_run.fbx]
+[2020.11.22-15.29.15:569][247]LogFbx: Loading FBX Scene from G:/回溯/roles/An_baserole_run.fbx
+[2020.11.22-15.29.15:574][247]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.22-15.29.15:574][247]LogFbx: Parsing AnimStack Take 001
+[2020.11.22-15.29.15:580][247]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/content/role/Animation/An_baserole_run.An_baserole_run
+[2020.11.22-15.29.15:587][247]LogEditorFactories: -- imported successfully
+[2020.11.22-15.29.15:591][247]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/content/role/Animation/An_baserole_run.An_baserole_run
+[2020.11.22-15.29.16:765][325]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/content/role/Animation/An_baserole_run.An_baserole_run
+[2020.11.22-15.29.43:517][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/content/role/Animation/An_baserole_run.An_baserole_run
+[2020.11.22-15.29.50:473][796]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/content/role/Animation/An_baserole_run.An_baserole_run
+[2020.11.22-15.30.15:877][469]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/content/role/Animation/An_baserole_run.An_baserole_run
+[2020.11.22-15.31.21:820][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.11.22-15.31.22:550][675]LogSlate: Window '保存内容' being destroyed
+[2020.11.22-15.31.22:583][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Level/TestLevel" FILE="E:/Document/Backtracking/Backtracking/Content/content/Level/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.22-15.31.22:598][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.11.22-15.31.22:613][675]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/TestLevel9800E6C94B86A37047D750943FAE62BA.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/Level/TestLevel.umap'
+[2020.11.22-15.31.22:622][675]LogFileHelpers: Saving map 'TestLevel' took 0.039
+[2020.11.22-15.31.22:629][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_baserole_run" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_baserole_run.uasset" SILENT=true
+[2020.11.22-15.31.22:633][675]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_baserole_run42C4B3C4480BAAA2084CD89D6C131A8E.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_baserole_run.uasset'
+[2020.11.22-15.31.22:634][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/BP_baserole" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/BP_baserole.uasset" SILENT=true
+[2020.11.22-15.31.22:642][675]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/BP_baserole3745787446F2F659A2022496E3973CAD.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/BP_baserole.uasset'
+[2020.11.22-15.31.22:643][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/MainGameMode" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/MainGameMode.uasset" SILENT=true
+[2020.11.22-15.31.22:646][675]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/MainGameMode940AF73448C585FEA48B9E8DB8415F61.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/MainGameMode.uasset'
+[2020.11.22-15.31.22:646][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Mesh/Sk_baserole_AnimBlueprint" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Mesh/Sk_baserole_AnimBlueprint.uasset" SILENT=true
+[2020.11.22-15.31.22:649][675]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/Sk_baserole_AnimBlueprint07F9A358483A941B7A8DFF88F3F42FDF.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Mesh/Sk_baserole_AnimBlueprint.uasset'
+[2020.11.22-15.31.22:684][675]AssetCheck: New page: 资产保存：多个资产
+[2020.11.22-15.31.22:684][675]LogContentValidation: Display: 正在验证World /Game/content/Level/TestLevel.TestLevel
+[2020.11.22-15.31.22:684][675]LogContentValidation: Display: 正在验证AnimSequence /Game/content/role/Animation/An_baserole_run.An_baserole_run
+[2020.11.22-15.31.22:684][675]LogContentValidation: Display: 正在验证Blueprint /Game/content/role/BP/BP_baserole.BP_baserole
+[2020.11.22-15.31.22:684][675]LogContentValidation: Display: 正在验证Blueprint /Game/content/role/BP/MainGameMode.MainGameMode
+[2020.11.22-15.31.22:684][675]LogContentValidation: Display: 正在验证AnimBlueprint /Game/content/role/Mesh/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint
+[2020.11.22-15.31.56:092][742]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2020.11.22-15.31.56:100][742]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.31.56:115][742]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.22-15.31.56:369][742]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.22-15.32.23:561][381]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2020.11.22-15.32.23:566][381]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2020.11.22-15.32.23:601][381]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.32.23:601][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.32.23:612][381]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.32.23:612][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.32.23:676][381]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.32.23:676][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.32.23:697][381]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.32.23:697][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.32.23:746][381]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.32.23:746][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.34.39:589][580]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\回溯\roles\An_baserole_idle.fbx)
+[2020.11.22-15.34.39:596][580]LogFbx: Loading FBX Scene from G:\回溯\roles\An_baserole_idle.fbx
+[2020.11.22-15.34.39:601][580]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.22-15.34.43:626][580]LogSlate: Window 'FBX导入选项' being destroyed
+[2020.11.22-15.34.43:640][580]LogFbx: SortedLinks :(0) joint_bottom
+[2020.11.22-15.34.43:640][580]LogFbx: SortedLinks :(1) joint_top
+[2020.11.22-15.34.43:640][580]LogFbx: Parsing AnimStack Take 001
+[2020.11.22-15.34.43:653][580]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/content/role/Animation/An_baserole_idle.An_baserole_idle
+[2020.11.22-15.34.43:654][580]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/content/role/Animation/An_baserole_idle.An_baserole_idle
+[2020.11.22-15.34.45:243][731]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/content/role/Animation/An_baserole_idle.An_baserole_idle
+[2020.11.22-15.34.45:251][731]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.34.45:322][731]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.22-15.34.45:511][731]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.22-15.34.57:421][999]LogSlate: Window 'An_baserole_idle' being destroyed
+[2020.11.22-15.34.57:427][999]LogSlate: Window 'An_baserole_idle' being destroyed
+[2020.11.22-15.34.57:461][999]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.34.57:461][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.34.57:469][999]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.34.57:469][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.34.57:514][999]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.34.57:514][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.34.59:569][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.11.22-15.35.00:225][227]LogSlate: Window '保存内容' being destroyed
+[2020.11.22-15.35.00:266][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_baserole_idle" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_baserole_idle.uasset" SILENT=true
+[2020.11.22-15.35.00:271][227]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_baserole_idle831FA28D456437F079DC6980BE67AD31.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_baserole_idle.uasset'
+[2020.11.22-15.35.00:284][227]AssetCheck: New page: 资产保存：An_baserole_idle
+[2020.11.22-15.35.00:284][227]LogContentValidation: Display: 正在验证AnimSequence /Game/content/role/Animation/An_baserole_idle.An_baserole_idle
+[2020.11.22-15.35.07:312][ 27]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/content/role/BP/BS1D_baserole_run.BS1D_baserole_run
+[2020.11.22-15.35.07:320][ 27]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.35.07:391][ 27]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.22-15.35.07:560][ 27]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.22-15.35.47:354][154]LogSlate: Window 'BS1D_baserole_run' being destroyed
+[2020.11.22-15.35.47:360][154]LogSlate: Window 'BS1D_baserole_run' being destroyed
+[2020.11.22-15.35.47:381][154]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.35.47:381][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.35.47:431][154]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.35.47:431][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.35.51:130][568]LogSlate: Window '内容浏览器' being destroyed
+[2020.11.22-15.35.51:135][568]LogSlate: Window '内容浏览器' being destroyed
+[2020.11.22-15.35.51:803][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.11.22-15.35.52:655][641]LogSlate: Window '保存内容' being destroyed
+[2020.11.22-15.35.52:687][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/BS1D_baserole_run" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/BS1D_baserole_run.uasset" SILENT=true
+[2020.11.22-15.35.52:706][641]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/BS1D_baserole_run5AADA7D5450990D6E5D7CD8238089C23.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/BS1D_baserole_run.uasset'
+[2020.11.22-15.35.52:718][641]AssetCheck: New page: 资产保存：BS1D_baserole_run
+[2020.11.22-15.35.52:718][641]LogContentValidation: Display: 正在验证BlendSpace1D /Game/content/role/BP/BS1D_baserole_run.BS1D_baserole_run
+[2020.11.22-15.36.12:365][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.11.22-15.36.13:257][924]LogSlate: Window '保存内容' being destroyed
+[2020.11.22-15.36.13:286][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_baserole_idle_Montage" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_baserole_idle_Montage.uasset" SILENT=true
+[2020.11.22-15.36.13:290][924]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_baserole_idle_Montage1AD8EF74450A347547E5BAB482931E0D.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_baserole_idle_Montage.uasset'
+[2020.11.22-15.36.13:298][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_baserole_run_Montage" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_baserole_run_Montage.uasset" SILENT=true
+[2020.11.22-15.36.13:312][924]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_baserole_run_Montage0ED5CCE04AF51F29D0DB00B46F220A94.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_baserole_run_Montage.uasset'
+[2020.11.22-15.36.13:319][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_jump_end_Montage" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_end_Montage.uasset" SILENT=true
+[2020.11.22-15.36.13:324][924]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_jump_end_Montage481152A1413F84ACF9F8ABA654378C3C.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_end_Montage.uasset'
+[2020.11.22-15.36.13:332][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_jump_mid_Montage" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_mid_Montage.uasset" SILENT=true
+[2020.11.22-15.36.13:336][924]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_jump_mid_Montage18785602488AD987DF3DB9A84A05C546.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_mid_Montage.uasset'
+[2020.11.22-15.36.13:344][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_jump_start_Montage" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_start_Montage.uasset" SILENT=true
+[2020.11.22-15.36.13:348][924]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_jump_start_Montage8AD4140B4883BDE01FA9BDAAC8165E00.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_start_Montage.uasset'
+[2020.11.22-15.36.13:375][924]AssetCheck: New page: 资产保存：多个资产
+[2020.11.22-15.36.13:375][924]LogContentValidation: Display: 正在验证AnimMontage /Game/content/role/Animation/An_baserole_idle_Montage.An_baserole_idle_Montage
+[2020.11.22-15.36.13:375][924]LogContentValidation: Display: 正在验证AnimMontage /Game/content/role/Animation/An_baserole_run_Montage.An_baserole_run_Montage
+[2020.11.22-15.36.13:375][924]LogContentValidation: Display: 正在验证AnimMontage /Game/content/role/Animation/An_jump_end_Montage.An_jump_end_Montage
+[2020.11.22-15.36.13:375][924]LogContentValidation: Display: 正在验证AnimMontage /Game/content/role/Animation/An_jump_mid_Montage.An_jump_mid_Montage
+[2020.11.22-15.36.13:376][924]LogContentValidation: Display: 正在验证AnimMontage /Game/content/role/Animation/An_jump_start_Montage.An_jump_start_Montage
+[2020.11.22-15.36.28:927][752]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/content/role/BP/BP_baserole.BP_baserole
+[2020.11.22-15.36.36:159][481]LogSlate: Window '教程' being destroyed
+[2020.11.22-15.36.37:204][589]LogSlate: Window '教程' being destroyed
+[2020.11.22-15.36.37:805][649]LogSlate: Window '教程' being destroyed
+[2020.11.22-15.36.46:919][646]BlueprintLog: New page: 编译BP_baserole
+[2020.11.22-15.36.46:950][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.11.22-15.36.46:980][646]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.22-15.36.47:567][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/BP_baserole" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/BP_baserole.uasset" SILENT=true
+[2020.11.22-15.36.47:632][705]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/BP_baserole2B21807345C8B7B2A92046B24C6C0A63.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/BP_baserole.uasset'
+[2020.11.22-15.36.47:645][705]AssetCheck: New page: 资产保存：BP_baserole
+[2020.11.22-15.36.47:645][705]LogContentValidation: Display: 正在验证Blueprint /Game/content/role/BP/BP_baserole.BP_baserole
+[2020.11.22-15.37.00:018][855]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/content/role/Mesh/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint
+[2020.11.22-15.37.00:031][855]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.37.00:236][855]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.22-15.37.11:344][891]LogSlate: Window '在蓝图 2 中寻找' being destroyed
+[2020.11.22-15.37.11:349][891]LogSlate: Window '在蓝图 2 中寻找' being destroyed
+[2020.11.22-15.37.23:420][ 37]LogMetaData: Removing '/Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/content/role/Mesh/Sk_baserole_AnimBlueprint.PackageMetaData'
+[2020.11.22-15.37.23:420][ 37]LogMetaData: Removing '/Game/content/role/BP/Sk_baserole_AnimBlueprint.SKEL_Sk_baserole_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/content/role/Mesh/Sk_baserole_AnimBlueprint.PackageMetaData'
+[2020.11.22-15.37.23:420][ 37]LogMetaData: Removing '/Game/content/role/BP/Sk_baserole_AnimBlueprint.SKEL_Sk_baserole_AnimBlueprint_C' ref from Metadata '/Game/content/role/Mesh/Sk_baserole_AnimBlueprint.PackageMetaData'
+[2020.11.22-15.37.23:420][ 37]LogMetaData: Removing '/Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/content/role/Mesh/Sk_baserole_AnimBlueprint.PackageMetaData'
+[2020.11.22-15.37.23:420][ 37]LogMetaData: Removing '/Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint_C' ref from Metadata '/Game/content/role/Mesh/Sk_baserole_AnimBlueprint.PackageMetaData'
+[2020.11.22-15.37.23:420][ 37]LogMetaData: Removing '/Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/content/role/Mesh/Sk_baserole_AnimBlueprint.PackageMetaData'
+[2020.11.22-15.37.23:420][ 37]LogMetaData: Removing '/Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/content/role/Mesh/Sk_baserole_AnimBlueprint.PackageMetaData'
+[2020.11.22-15.37.23:461][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/Sk_baserole_AnimBlueprint" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/Sk_baserole_AnimBlueprint.uasset" SILENT=true
+[2020.11.22-15.37.23:468][ 37]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/Sk_baserole_AnimBlueprint752493E8490240E6F3B0CBA2F06D6FEF.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/Sk_baserole_AnimBlueprint.uasset'
+[2020.11.22-15.37.23:606][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.11.22-15.37.23:635][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.11.22-15.37.23:652][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.22-15.37.23:710][ 37]AssetCheck: New page: 资产保存：Sk_baserole_AnimBlueprint
+[2020.11.22-15.37.23:710][ 37]LogContentValidation: Display: 正在验证AnimBlueprint /Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint
+[2020.11.22-15.37.27:939][489]BlueprintLog: New page: 编译Sk_baserole_AnimBlueprint
+[2020.11.22-15.37.27:969][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.11.22-15.37.53:591][516]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.37.53:592][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.38.08:340][877]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.11.22-15.38.08:352][877]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.38.08:555][877]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.22-15.38.32:959][763]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.11.22-15.38.32:965][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.38.32:980][763]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.22-15.38.33:211][763]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.22-15.38.36:231][958]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.38.36:231][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.38.36:242][958]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.38.36:242][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.38.36:302][958]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.38.36:302][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.39.37:349][690]LogSlate: Window '教程' being destroyed
+[2020.11.22-15.39.50:664][629]BlueprintLog: New page: 编译Sk_baserole_AnimBlueprint
+[2020.11.22-15.39.50:666][629]LogBlueprint: Warning: [Compiler Sk_baserole_AnimBlueprint] 在'Sk_baserole_AnimBlueprint_C’中找不到名为"IsInAir?\”的变量。
+请确保已针对  Set IsInAir?  对'Sk_baserole_AnimBlueprint_C’进行了编译
+[2020.11.22-15.39.50:666][629]LogBlueprint: Warning: [Compiler Sk_baserole_AnimBlueprint] 在'Sk_baserole_AnimBlueprint_C’中找不到名为"Speed\”的变量。
+请确保已针对  Set Speed  对'Sk_baserole_AnimBlueprint_C’进行了编译
+[2020.11.22-15.39.50:666][629]LogBlueprint: Warning: [Compiler Sk_baserole_AnimBlueprint] 入口节点 Default 未被连接到状态上
+[2020.11.22-15.39.50:666][629]LogBlueprint: Warning: [Compiler Sk_baserole_AnimBlueprint] 在 Default 中没有入口状态连接
+[2020.11.22-15.39.50:666][629]LogBlueprint: Warning: [Compiler Sk_baserole_AnimBlueprint] 在'Sk_baserole_AnimBlueprint_C’中找不到名为"IsInAir?\”的变量。
+请确保已针对  Set IsInAir?  对'Sk_baserole_AnimBlueprint_C’进行了编译
+[2020.11.22-15.39.50:666][629]LogBlueprint: Warning: [Compiler Sk_baserole_AnimBlueprint] 在'Sk_baserole_AnimBlueprint_C’中找不到名为"Speed\”的变量。
+请确保已针对  Set Speed  对'Sk_baserole_AnimBlueprint_C’进行了编译
+[2020.11.22-15.39.50:667][629]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 未能在“/Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint_C”中找到和 Speed 相关的属性
+[2020.11.22-15.39.50:667][629]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 未能在“/Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint_C”中找到和 Is in Air? 相关的属性
+[2020.11.22-15.39.50:702][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.11.22-15.39.51:164][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/Sk_baserole_AnimBlueprint" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/Sk_baserole_AnimBlueprint.uasset" SILENT=true
+[2020.11.22-15.39.51:173][655]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/Sk_baserole_AnimBlueprint3B90FA99483544558CBBAEA669011313.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/Sk_baserole_AnimBlueprint.uasset'
+[2020.11.22-15.39.51:184][655]AssetCheck: New page: 资产保存：Sk_baserole_AnimBlueprint
+[2020.11.22-15.39.51:184][655]LogContentValidation: Display: 正在验证AnimBlueprint /Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint
+[2020.11.22-15.39.58:839][153]BlueprintLog: New page: 编译Sk_baserole_AnimBlueprint
+[2020.11.22-15.39.58:841][153]LogBlueprint: Warning: [Compiler Sk_baserole_AnimBlueprint] 入口节点 Default 未被连接到状态上
+[2020.11.22-15.39.58:841][153]LogBlueprint: Warning: [Compiler Sk_baserole_AnimBlueprint] 在 Default 中没有入口状态连接
+[2020.11.22-15.39.58:871][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.11.22-15.41.16:839][337]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/content/role/BP/BS1D_baserole_run.BS1D_baserole_run
+[2020.11.22-15.41.16:846][337]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.41.16:859][337]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.22-15.41.17:053][337]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimMontage
+[2020.11.22-15.41.22:890][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/BS1D_baserole_run" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/BS1D_baserole_run.uasset" SILENT=true
+[2020.11.22-15.41.22:907][759]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/BS1D_baserole_runA7ABE2B54B1F5000C57E2A82D1AF336C.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/BS1D_baserole_run.uasset'
+[2020.11.22-15.41.22:918][759]AssetCheck: New page: 资产保存：BS1D_baserole_run
+[2020.11.22-15.41.22:918][759]LogContentValidation: Display: 正在验证BlendSpace1D /Game/content/role/BP/BS1D_baserole_run.BS1D_baserole_run
+[2020.11.22-15.41.30:684][265]BlueprintLog: New page: 编译Sk_baserole_AnimBlueprint
+[2020.11.22-15.41.30:687][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 播放 ThirdPersonJump_Start  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2020.11.22-15.41.30:687][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 播放 ThirdPersonJump_Loop  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2020.11.22-15.41.30:688][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 播放 ThirdPerson_Jump  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2020.11.22-15.41.30:688][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] ICE: Player node  播放 ThirdPersonJump_Start  was not processed prior to handling a transition getter  ThirdPersonJump_Start资产  that used it
+[2020.11.22-15.41.30:688][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] ICE: Player node  播放 ThirdPerson_Jump  was not processed prior to handling a transition getter  ThirdPerson_Jump资产  that used it
+[2020.11.22-15.41.30:688][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 搜索节点链接时缺失已分配的节点 AnimGraphNode_SequencePlayer_34——可能是由于节点存在未处理的错误。
+[2020.11.22-15.41.30:688][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 搜索节点链接时缺失已分配的节点 AnimGraphNode_SequencePlayer_40——可能是由于节点存在未处理的错误。
+[2020.11.22-15.41.30:688][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 搜索节点链接时缺失已分配的节点 AnimGraphNode_SequencePlayer_46——可能是由于节点存在未处理的错误。
+[2020.11.22-15.41.30:689][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 在  ThirdPerson_Jump资产  存在意外的节点类型 K2Node_TransitionRuleGetter
+[2020.11.22-15.41.30:689][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 在  ThirdPersonJump_Start资产  存在意外的节点类型 K2Node_TransitionRuleGetter
+[2020.11.22-15.41.30:690][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 在  ThirdPersonJump_Start资产  存在意外的节点类型 K2Node_TransitionRuleGetter
+[2020.11.22-15.41.30:690][265]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 在  ThirdPerson_Jump资产  存在意外的节点类型 K2Node_TransitionRuleGetter
+[2020.11.22-15.41.30:721][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.11.22-15.41.48:812][299]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.41.48:812][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.41.48:865][299]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.41.48:865][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.42.05:320][388]LogEditorTransaction: Undo 删除当前选项
+[2020.11.22-15.42.05:465][388]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.42.05:465][388]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.22-15.44.04:022][301]BlueprintLog: New page: 编译Sk_baserole_AnimBlueprint
+[2020.11.22-15.44.04:025][301]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 播放 ThirdPersonJump_Loop  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2020.11.22-15.44.04:025][301]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 播放 ThirdPerson_Jump  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2020.11.22-15.44.04:026][301]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] ICE: Player node  播放 ThirdPerson_Jump  was not processed prior to handling a transition getter  ThirdPerson_Jump资产  that used it
+[2020.11.22-15.44.04:026][301]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 搜索节点链接时缺失已分配的节点 AnimGraphNode_SequencePlayer_40——可能是由于节点存在未处理的错误。
+[2020.11.22-15.44.04:026][301]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 搜索节点链接时缺失已分配的节点 AnimGraphNode_SequencePlayer_46——可能是由于节点存在未处理的错误。
+[2020.11.22-15.44.04:027][301]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 在  ThirdPerson_Jump资产  存在意外的节点类型 K2Node_TransitionRuleGetter
+[2020.11.22-15.44.04:027][301]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 在  ThirdPerson_Jump资产  存在意外的节点类型 K2Node_TransitionRuleGetter
+[2020.11.22-15.44.04:062][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.11.22-15.44.42:847][546]BlueprintLog: New page: 编译Sk_baserole_AnimBlueprint
+[2020.11.22-15.44.42:850][546]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 播放 ThirdPersonJump_Loop  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2020.11.22-15.44.42:850][546]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 播放 ThirdPerson_Jump  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2020.11.22-15.44.42:851][546]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] ICE: Player node  播放 ThirdPerson_Jump  was not processed prior to handling a transition getter  ThirdPerson_Jump资产  that used it
+[2020.11.22-15.44.42:851][546]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 搜索节点链接时缺失已分配的节点 AnimGraphNode_SequencePlayer_40——可能是由于节点存在未处理的错误。
+[2020.11.22-15.44.42:851][546]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 搜索节点链接时缺失已分配的节点 AnimGraphNode_SequencePlayer_46——可能是由于节点存在未处理的错误。
+[2020.11.22-15.44.42:852][546]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 在  ThirdPerson_Jump资产  存在意外的节点类型 K2Node_TransitionRuleGetter
+[2020.11.22-15.44.42:852][546]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 在  ThirdPerson_Jump资产  存在意外的节点类型 K2Node_TransitionRuleGetter
+[2020.11.22-15.44.42:882][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.11.22-15.45.04:856][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.11.22-15.45.05:677][ 23]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.22-15.45.05:792][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.11.22-15.45.05:818][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.11.22-15.45.05:837][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.22-15.45.14:954][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_jump_loop" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_loop.uasset" SILENT=true
+[2020.11.22-15.45.14:958][676]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_jump_loopD9F9C65748EAA5CD5D31B18F7967FD01.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_loop.uasset'
+[2020.11.22-15.45.15:114][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.22-15.45.15:140][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.11.22-15.45.15:158][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.22-15.45.15:223][676]AssetCheck: New page: 资产保存：An_jump_loop
+[2020.11.22-15.45.15:223][676]LogContentValidation: Display: 正在验证AnimSequence /Game/content/role/Animation/An_jump_loop.An_jump_loop
+[2020.11.22-15.45.24:092][250]BlueprintLog: New page: 编译Sk_baserole_AnimBlueprint
+[2020.11.22-15.45.24:095][250]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 播放 ThirdPerson_Jump  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2020.11.22-15.45.24:096][250]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] ICE: Player node  播放 ThirdPerson_Jump  was not processed prior to handling a transition getter  ThirdPerson_Jump资产  that used it
+[2020.11.22-15.45.24:096][250]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 搜索节点链接时缺失已分配的节点 AnimGraphNode_SequencePlayer_46——可能是由于节点存在未处理的错误。
+[2020.11.22-15.45.24:097][250]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 在  ThirdPerson_Jump资产  存在意外的节点类型 K2Node_TransitionRuleGetter
+[2020.11.22-15.45.24:097][250]LogBlueprint: Error: [Compiler Sk_baserole_AnimBlueprint] 在  ThirdPerson_Jump资产  存在意外的节点类型 K2Node_TransitionRuleGetter
+[2020.11.22-15.45.24:126][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.11.22-15.45.55:704][383]BlueprintLog: New page: 编译Sk_baserole_AnimBlueprint
+[2020.11.22-15.45.55:741][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.11.22-15.45.56:372][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/Sk_baserole_AnimBlueprint" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/Sk_baserole_AnimBlueprint.uasset" SILENT=true
+[2020.11.22-15.45.56:406][421]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/Sk_baserole_AnimBlueprint38E92D4A452DAFBF0E89ED822CF9577F.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/Sk_baserole_AnimBlueprint.uasset'
+[2020.11.22-15.45.56:420][421]AssetCheck: New page: 资产保存：Sk_baserole_AnimBlueprint
+[2020.11.22-15.45.56:420][421]LogContentValidation: Display: 正在验证AnimBlueprint /Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint
+[2020.11.22-15.46.01:836][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/Sk_baserole_AnimBlueprint" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/Sk_baserole_AnimBlueprint.uasset" SILENT=true
+[2020.11.22-15.46.01:852][792]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/Sk_baserole_AnimBlueprint2E1B3814453E31F75E5A0FACDFE2E0A1.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/Sk_baserole_AnimBlueprint.uasset'
+[2020.11.22-15.46.01:867][792]AssetCheck: New page: 资产保存：Sk_baserole_AnimBlueprint
+[2020.11.22-15.46.01:867][792]LogContentValidation: Display: 正在验证AnimBlueprint /Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint
+[2020.11.22-15.46.06:689][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/Sk_baserole_AnimBlueprint" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/Sk_baserole_AnimBlueprint.uasset" SILENT=true
+[2020.11.22-15.46.06:706][ 92]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/Sk_baserole_AnimBlueprint48CD8ACE43881C3179A48AABCA574D55.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/Sk_baserole_AnimBlueprint.uasset'
+[2020.11.22-15.46.06:719][ 92]AssetCheck: New page: 资产保存：Sk_baserole_AnimBlueprint
+[2020.11.22-15.46.06:719][ 92]LogContentValidation: Display: 正在验证AnimBlueprint /Game/content/role/BP/Sk_baserole_AnimBlueprint.Sk_baserole_AnimBlueprint
+[2020.11.22-15.46.13:601][472]LogSlate: Window 'Sk_baserole_AnimBlueprint' being destroyed
+[2020.11.22-15.46.13:608][472]LogSlate: Window 'Sk_baserole_AnimBlueprint' being destroyed
+[2020.11.22-15.46.13:616][472]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.46.13:616][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.46.13:618][472]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.46.13:618][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.46.13:704][472]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.46.13:704][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.46.14:984][577]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2020.11.22-15.46.14:990][577]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2020.11.22-15.46.15:032][577]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.46.15:032][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.46.15:035][577]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.46.15:035][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.46.15:135][577]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.46.15:135][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.46.17:500][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.11.22-15.46.18:254][787]LogSlate: Window '保存内容' being destroyed
+[2020.11.22-15.46.18:288][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/Animation/An_jump_loop_Montage" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_loop_Montage.uasset" SILENT=true
+[2020.11.22-15.46.18:292][787]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/An_jump_loop_Montage2701FC204A080F77916413BC4B8FCE7E.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/Animation/An_jump_loop_Montage.uasset'
+[2020.11.22-15.46.18:304][787]AssetCheck: New page: 资产保存：An_jump_loop_Montage
+[2020.11.22-15.46.18:304][787]LogContentValidation: Display: 正在验证AnimMontage /Game/content/role/Animation/An_jump_loop_Montage.An_jump_loop_Montage
+[2020.11.22-15.46.22:687][275]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.22-15.46.41:066][433]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/content/role/BP/BP_baserole.BP_baserole
+[2020.11.22-15.46.48:439][ 77]BlueprintLog: New page: 编译BP_baserole
+[2020.11.22-15.46.48:481][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.11.22-15.46.49:567][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/BP_baserole" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/BP_baserole.uasset" SILENT=true
+[2020.11.22-15.46.49:578][188]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/BP_baseroleE813F0314BEF7698D50F3ABD8C7DB450.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/BP_baserole.uasset'
+[2020.11.22-15.46.49:592][188]AssetCheck: New page: 资产保存：BP_baserole
+[2020.11.22-15.46.49:592][188]LogContentValidation: Display: 正在验证Blueprint /Game/content/role/BP/BP_baserole.BP_baserole
+[2020.11.22-15.47.15:634][703]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (baserole)
+[2020.11.22-15.47.16:241][769]Cmd: DELETE
+[2020.11.22-15.47.16:241][769]Cmd: ACTOR DELETE
+[2020.11.22-15.47.16:242][769]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.11.22-15.47.16:262][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.11.22-15.47.16:269][769]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.11.22-15.47.17:280][877]LogTemp: Repeating last play command: 选中的视口
+[2020.11.22-15.47.17:284][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.22-15.47.17:285][877]PIE: New page: PIE会话：TestLevel（2020年11月23日 上午7:47:17）
+[2020.11.22-15.47.17:322][877]LogPlayLevel: Creating play world package: /Game/content/Level/UEDPIE_0_TestLevel
+[2020.11.22-15.47.17:330][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008324s)
+[2020.11.22-15.47.17:331][877]LogAIModule: Creating AISystem for world TestLevel
+[2020.11.22-15.47.17:331][877]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024C66854400), frame # 218877
+[2020.11.22-15.47.17:331][877]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024B32BE7600), frame # 218877
+[2020.11.22-15.47.17:331][877]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2020.11.22-15.47.17:331][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/content/Level/TestLevel.TestLevel to /Game/content/Level/UEDPIE_0_TestLevel.TestLevel (0.009578s)
+[2020.11.22-15.47.17:347][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.11.22-15.47.17:348][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.22-15.47.17:348][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.22-15.47.17:348][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.22-15.47.17:348][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.22-15.47.17:348][877]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.22-15.47.17:348][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.22-15.47.17:348][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.22-15.47.17:349][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.22-15.47.17:349][877]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.22-15.47.17:349][877]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.22-15.47.17:356][877]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.22-15.47.17:356][877]LogAudioMixer: Display: 1: FrontRight
+[2020.11.22-15.47.17:376][877]LogAudioMixer: Display: Using Audio Device 扬声器 (3- USB Audio Device)
+[2020.11.22-15.47.17:376][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.22-15.47.17:376][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.22-15.47.17:376][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.22-15.47.17:376][877]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.22-15.47.17:387][877]LogInit: FAudioDevice initialized.
+[2020.11.22-15.47.17:404][877]LogLoad: Game class is 'MainGameMode_C'
+[2020.11.22-15.47.17:406][877]LogWorld: Bringing World /Game/content/Level/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.11.22-23.47.17
+[2020.11.22-15.47.17:408][877]LogWorld: Bringing up level for play took: 0.003324
+[2020.11.22-15.47.17:409][877]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.11.22-15.47.17:411][877]PIE: 登陆的服务器
+[2020.11.22-15.47.17:412][877]PIE: PIE总开始时间：0.128秒。
+[2020.11.22-15.47.21:182][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.22-15.47.21:182][322]LogWorld: BeginTearingDown for /Game/content/Level/UEDPIE_0_TestLevel
+[2020.11.22-15.47.21:182][322]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.47.21:182][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.47.21:187][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.22-15.47.21:190][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.47.21:207][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.22-15.47.21:221][322]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024B32BE7600), frame # 219322
+[2020.11.22-15.47.21:221][322]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024C66854400), frame # 219322
+[2020.11.22-15.47.21:222][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.11.22-15.47.21:290][324]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.11.22-15.47.22:520][452]LogEditorViewport: Clicking on Actor (LMB): BP_baserole_C (BP_baserole)
+[2020.11.22-15.47.24:669][630]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.22-15.47.44:216][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/Level/TestLevel" FILE="E:/Document/Backtracking/Backtracking/Content/content/Level/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.22-15.47.44:233][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.11.22-15.47.44:257][649]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/TestLevelAC687613471F3566534DD39F3E969D96.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/Level/TestLevel.umap'
+[2020.11.22-15.47.44:278][649]AssetCheck: New page: 资产保存：TestLevel
+[2020.11.22-15.47.44:278][649]LogContentValidation: Display: 正在验证World /Game/content/Level/TestLevel.TestLevel
+[2020.11.22-15.47.45:315][737]LogTemp: Repeating last play command: 选中的视口
+[2020.11.22-15.47.45:321][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.22-15.47.45:322][737]PIE: New page: PIE会话：TestLevel（2020年11月23日 上午7:47:45）
+[2020.11.22-15.47.45:352][737]LogPlayLevel: Creating play world package: /Game/content/Level/UEDPIE_0_TestLevel
+[2020.11.22-15.47.45:360][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007800s)
+[2020.11.22-15.47.45:361][737]LogAIModule: Creating AISystem for world TestLevel
+[2020.11.22-15.47.45:361][737]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024B132D7A00), frame # 221737
+[2020.11.22-15.47.45:361][737]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024C677B6E80), frame # 221737
+[2020.11.22-15.47.45:361][737]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2020.11.22-15.47.45:361][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/content/Level/TestLevel.TestLevel to /Game/content/Level/UEDPIE_0_TestLevel.TestLevel (0.008799s)
+[2020.11.22-15.47.45:378][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.11.22-15.47.45:380][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.22-15.47.45:380][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.22-15.47.45:380][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.22-15.47.45:380][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.22-15.47.45:380][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.22-15.47.45:380][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.22-15.47.45:380][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.22-15.47.45:380][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.22-15.47.45:380][737]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.22-15.47.45:380][737]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.22-15.47.45:387][737]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.22-15.47.45:387][737]LogAudioMixer: Display: 1: FrontRight
+[2020.11.22-15.47.45:406][737]LogAudioMixer: Display: Using Audio Device 扬声器 (3- USB Audio Device)
+[2020.11.22-15.47.45:406][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.22-15.47.45:406][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.22-15.47.45:406][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.22-15.47.45:406][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.22-15.47.45:407][737]LogInit: FAudioDevice initialized.
+[2020.11.22-15.47.45:421][737]LogLoad: Game class is 'MainGameMode_C'
+[2020.11.22-15.47.45:422][737]LogWorld: Bringing World /Game/content/Level/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2020.11.22-23.47.45
+[2020.11.22-15.47.45:422][737]LogWorld: Bringing up level for play took: 0.000943
+[2020.11.22-15.47.45:422][737]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.11.22-15.47.45:424][737]PIE: 登陆的服务器
+[2020.11.22-15.47.45:425][737]PIE: PIE总开始时间：0.106秒。
+[2020.11.22-15.48.21:523][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.22-15.48.21:523][976]LogWorld: BeginTearingDown for /Game/content/Level/UEDPIE_0_TestLevel
+[2020.11.22-15.48.21:523][976]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.48.21:523][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.48.21:532][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.22-15.48.21:534][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.48.21:549][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.22-15.48.21:563][976]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024C677B6E80), frame # 225976
+[2020.11.22-15.48.21:563][976]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024B132D7A00), frame # 225976
+[2020.11.22-15.48.21:565][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.11.22-15.48.21:604][977]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.11.22-15.48.23:651][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.11.22-15.48.24:486][195]LogSlate: Window '保存内容' being destroyed
+[2020.11.22-15.48.24:515][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/content/role/BP/MainGameMode" FILE="E:/Document/Backtracking/Backtracking/Content/content/role/BP/MainGameMode.uasset" SILENT=true
+[2020.11.22-15.48.24:522][195]LogSavePackage: Moving 'E:/Document/Backtracking/Backtracking/Saved/MainGameMode6CE3D1ED44D4C6F8AFB5D28A66EE81FC.tmp' to 'E:/Document/Backtracking/Backtracking/Content/content/role/BP/MainGameMode.uasset'
+[2020.11.22-15.48.24:534][195]AssetCheck: New page: 资产保存：MainGameMode
+[2020.11.22-15.48.24:534][195]LogContentValidation: Display: 正在验证Blueprint /Game/content/role/BP/MainGameMode.MainGameMode
+[2020.11.22-15.48.25:153][266]LogSlate: Window '内容浏览器' being destroyed
+[2020.11.22-15.48.25:158][266]LogSlate: Window '内容浏览器' being destroyed
+[2020.11.22-15.48.26:118][381]LogSlate: Window 'BP_baserole' being destroyed
+[2020.11.22-15.48.26:123][381]LogSlate: Window 'BP_baserole' being destroyed
+[2020.11.22-15.48.26:128][381]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2020.11.22-15.48.26:128][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.22-15.48.56:545][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
